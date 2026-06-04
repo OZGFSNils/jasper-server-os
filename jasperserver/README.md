@@ -79,6 +79,7 @@ To start Jasper Server OS:
 - Log into Jasper Server OS as jasperadmin:
     - User ID: jasperadmin
     - Password: jasperadmin
+      
 
 ### Other build commands
 There is no need to execute full-build commands all the time. The Buildomatic contains many simplified ant tasks, most common of them are:
